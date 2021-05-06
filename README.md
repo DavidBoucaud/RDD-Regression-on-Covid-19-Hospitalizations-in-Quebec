@@ -13,4 +13,4 @@ RDD regression and analysis of daily admittance of covid-19 patients to hospital
   
   An interesting note is the coefficient returned on the polynomiral feature. This coefficient, if negative, denotes that the trend is increasing. THe opposite is true if it is positive.
   
-    Please feel free to contact me with any questions. The code here is really simple, and their are more events and data points since this project was completed.
+  Please feel free to contact me with any questions. The code here is really simple, and their are more events and data points since this project was completed.
