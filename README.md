@@ -9,8 +9,8 @@ RDD regression and analysis of daily admittance of covid-19 patients to hospital
   I (hope) that the plot is farily intuitive (see RDD Plot.pdf). We see that the effects of the events are what would be expected, to varying degrees. I chose to generate the size of each scatter plot point from the current number of hospilizations from Covid-19, to further illustrate a worrying trend that seems to operate almost independently of the events.
   
  ## The Findings
-  As mentioned, the effect of the events is farily intuitive. There are still a few important notes. The firth graph is the least effective in denoting a before/after trend (statistically proven by similar coefficients). This is likely due to insufficient test data at the beginning of the pandemic.
+  As mentioned, the effect of the events is farily intuitive. There are still a few important notes. The first graph is the least effective in denoting a before/after trend (statistically proven by similar coefficients). This is likely due to insufficient test data at the beginning of the pandemic.
   
-  An interesting note is the coefficient returned on the polynomiral feature. This coefficient, if negative, denotes that the trend is increasing. THe opposite is true if it is positive.
+  An interesting note is the coefficient returned on the polynominal feature. This coefficient, if negative, denotes that the trend is increasing. The opposite is true if it is positive.
   
   Please feel free to contact me with any questions. The code here is really simple, and their are more events and data points since this project was completed.
